@@ -1,7 +1,36 @@
 # 💫 About Me:
-Hi there, I'm Raj Nayan! 👋🚀<br><br>🚀 About Me 🖥️💡<br><br>I'm a Computer Science student at Bennett University (Expected 2026) 🎓, passionate about building scalable applications 💻, cloud computing ☁️, and AI-driven solutions 🤖. I have hands-on experience with full-stack development 🏗️, cloud platforms like AWS and Google Cloud 🌍, and problem-solving using DSA 🧩.<br><br>🛠️ Technologies & Skills ⚡<br>Programming Languages:<br>🐍 Python | ☕ Java | 🔷 C | 🔷 C++ | 📝 JavaScript | ⌨️ TypeScript | 🖥️ Bash Script<br><br>Frontend Development:<br>🎨 HTML | 🎭 CSS3 | ⚛️ React.js | 🌟 Tailwind CSS | 🔄 Redux | 🔗 React Router | 📌 React Hook Form<br><br>Backend & Databases:<br>🏗️ Node.js | 🔗 RESTful APIs | 🗄️ MySQL | 🍃 MongoDB | 🏦 Amazon DynamoDB | 🔥 Firebase<br><br>Cloud & DevOps:<br>☁️ AWS (EC2, S3, RDS, Cognito, CloudWatch) | 🌐 Google Cloud | 🐳 Docker | 🎛️ Kubernetes | 🔍 ElasticSearch | 🏗️ CI/CD Pipelines<br><br>Tools & Frameworks:<br>🔄 Git | 🐙 GitHub | 🦊 GitLab | 📬 Postman | 📊 Jira | 🚀 Netlify | 🔥 Firebase | 🏗️ Apache Tomcat | 🏗️ Nginx | 🐍 Anaconda<br><br>AI & Machine Learning:<br>🧠 Naïve Bayes | 🌳 Decision Trees | 📉 PCA | 🤖 Generative AI APIs
+Hi there, I'm Raj Nayan! 👋🚀<br><br>🚀 About Me 🖥️💡<br><br>I'm a Computer Science student at Bennett University (Expected 2026) 🎓, passionate about building scalable applications 💻, cloud computing ☁️, and AI-driven solutions 🤖. I have hands-on experience with full-stack development 🏗️, cloud platforms like AWS and Google Cloud 🌍, and problem-solving using DSA 🧩.
 
+## 🧩 Projects:
+### 🔬 Breast Cancer Prediction using PCA
+Implemented a machine learning pipeline to classify breast cancer using Principal Component Analysis (PCA) for dimensionality reduction. Achieved improved accuracy and interpretability through regression and classification evaluation metrics like precision, recall, and accuracy.
 
+<br>
+
+🛠️ Technologies Used: `Pandas`, `Scikit-learn`, `Matplotlib`, `Seaborn`, `Jupyter Notebook`
+
+<br>
+
+# 🛠️ Technologies & Skills ⚡
+**Programming Languages**:  
+🐍 Python | ☕ Java | 🔷 C | 🔷 C++ | 📝 JavaScript | ⌨️ TypeScript | 🖥️ Bash Script
+
+**Frontend Development**:  
+🎨 HTML | 🎭 CSS3 | ⚛️ React.js | 🌟 Tailwind CSS | 🔄 Redux | 🔗 React Router | 📌 React Hook Form
+
+**Backend & Databases**:  
+🏗️ Node.js | 🔗 RESTful APIs | 🗄️ MySQL | 🍃 MongoDB | 🏦 Amazon DynamoDB | 🔥 Firebase
+
+**Cloud & DevOps**:  
+☁️ AWS (EC2, S3, RDS, Cognito, CloudWatch) | 🌐 Google Cloud | 🐳 Docker | 🎛️ Kubernetes | 🔍 ElasticSearch | 🏗️ CI/CD Pipelines | 🧪 SonarQube | 🔐 OWASP ZAP | 🔍 Trivy | 🛠️ Jenkins
+
+**Tools & Frameworks**:  
+🔄 Git | 🐙 GitHub | 🦊 GitLab | 📬 Postman | 📊 Jira | 🚀 Netlify | 🔥 Firebase | 🏗️ Apache Tomcat | 🏗️ Nginx | 🐍 Anaconda
+
+**AI & Machine Learning**:  
+🧠 Naïve Bayes | 🌳 Decision Trees | 📉 PCA | 🤖 Generative AI APIs
+
+<br>
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/https://codolio.com/profile/Raj%20nayan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/raj-nayan-5a5a22251/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Raj_Nayan_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajnayan2512@gmail.com) 
 
