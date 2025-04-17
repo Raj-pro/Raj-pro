@@ -7,10 +7,6 @@ Implemented a machine learning pipeline to classify breast cancer using Principa
 
 <br>
 
-🛠️ Technologies Used: `Pandas`, `Scikit-learn`, `Matplotlib`, `Seaborn`, `Jupyter Notebook`
-
-<br>
-
 # 🛠️ Technologies & Skills ⚡
 **Programming Languages**:  
 🐍 Python | ☕ Java | 🔷 C | 🔷 C++ | 📝 JavaScript | ⌨️ TypeScript | 🖥️ Bash Script
