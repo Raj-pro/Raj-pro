@@ -1,10 +1,6 @@
 # 💫 About Me:
 Hi there, I'm Raj Nayan! 👋🚀<br><br>🚀 About Me 🖥️💡<br><br>I'm a Computer Science student at Bennett University (Expected 2026) 🎓, passionate about building scalable applications 💻, cloud computing ☁️, and AI-driven solutions 🤖. I have hands-on experience with full-stack development 🏗️, cloud platforms like AWS and Google Cloud 🌍, and problem-solving using DSA 🧩.
 
-## 🧩 Projects:
-### 🔬 Breast Cancer Prediction using PCA
-Implemented a machine learning pipeline to classify breast cancer using Principal Component Analysis (PCA) for dimensionality reduction. Achieved improved accuracy and interpretability through regression and classification evaluation metrics like precision, recall, and accuracy.
-
 <br>
 
 # 🛠️ Technologies & Skills ⚡
